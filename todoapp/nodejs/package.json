@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "restify": "4.0.3",
-    "sequelize": "3.14.2",
-    "mysql": "2.9.0"
+    "restify": "4.1.0",
+    "sequelize": "6.29.0",
+    "mysql": "2.14.0"
   }
 }
